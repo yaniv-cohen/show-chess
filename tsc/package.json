@@ -1,0 +1,10 @@
+{
+  "name": "tsc",
+  "scripts": {
+    "start": "node dist/app.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
